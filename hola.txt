@@ -1,2 +1,5 @@
 Hola soy Christian
 Haciendo una pequeña pruena desde rama 2
+
+
+AHORA ENTIENDO TODO, TENIA QUE ESTAR EN RAMA2

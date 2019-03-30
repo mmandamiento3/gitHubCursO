@@ -1,2 +1,10 @@
 Hola soy Christian
+<<<<<<< HEAD
 Hola soy Christian Morales
+=======
+
+
+
+
+
+HACIENDO UNA PEQUEÑA PRUEBA DESDE RAMA2
